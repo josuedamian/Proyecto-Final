@@ -1,0 +1,10 @@
+{
+  "classes":2,
+  "quantity":500,
+  "width":50,
+  "height":50,
+
+  "chanels":1,
+  "neurons":256,
+  "iterations":5
+}
